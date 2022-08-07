@@ -1,0 +1,8 @@
+names:
+- becak
+- mobil
+- motor
+- truk
+nc: 4
+train: becakmotormobiltruk-1/train/images
+val: becakmotormobiltruk-1/valid/images
